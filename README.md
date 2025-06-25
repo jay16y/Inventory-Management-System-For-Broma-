@@ -1,18 +1,41 @@
-# Inventory-Management-System-For-Broma-
-Developed a comprehensive Inventory Management System for Broma, a small-to-medium scale business, aimed at streamlining stock tracking, purchase/sale operations, and inventory control. The system enabled real-time monitoring of inventory levels, automated product entry and removal, and maintained detailed logs of transactions.
+# 📦 Inventory Management System for Broma
 
-Key features included:
+A complete inventory management solution built for **Broma**, designed to streamline stock operations, automate inventory tracking, and ensure efficient resource control.
 
-Product cataloging with barcode-based search and filtering
+![Made With](https://img.shields.io/badge/Made%20with-Love-red?style=flat-square) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-Stock tracking with real-time quantity updates on addition, sale, or returns
+---
 
-Purchase and sales module with invoice generation
+## 🔍 Features
 
-Low stock alerts and reorder level notifications
+- 🗃️ **Product Management** – Add, update, and delete items with barcode support  
+- 📊 **Real-Time Stock Tracking** – Instant updates on purchases, sales, and returns  
+- 🛒 **Purchase & Sales Modules** – Generate bills, track transactions  
+- 🚨 **Low Stock Alerts** – Notifications when stock goes below reorder level  
+- 🧾 **Reports & Analytics** – Inventory summaries and usage insights  
+- 👤 **Role-Based Access Control** – Secure login for admins and staff
 
-Admin dashboard with analytics and inventory reports
+---
 
-Role-based user access for secure multi-user functionality
+## 🛠️ Tech Stack
 
-The system improved operational efficiency, reduced human error in stock handling, and helped Broma maintain optimal inventory levels.
+- 🖥️ **Frontend**: HTML/CSS, JavaScript (or React/Angular if applicable)  
+- 🧠 **Backend**: Node.js / Django / PHP (update as per your project)  
+- 🗃️ **Database**: MySQL / PostgreSQL / MongoDB  
+- 🔐 **Authentication**: JWT / Session-based auth  
+- 📦 **Tools**: Git, VS Code, Postman
+
+---
+
+## 📸 Screenshots
+
+> _Include screenshots of dashboard, product list, transaction page, etc._
+
+---
+
+## 🚀 Setup Instructions
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/broma-inventory-system.git
+   cd broma-inventory-system
